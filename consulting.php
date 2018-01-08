@@ -77,10 +77,8 @@
 		<div class="container">
 			<section>
 				<div class="fancy-header-light">
-					<h3>BOARD SUPPORT PACKAGE</h3>
-					<h2><small>We build operating systems and infrastructure software specific to your hardware product,
-            including SDKs for the development of applications. To accomplish this we are using the
-            following opensource projects.</small></h2>
+					<h3>BRING UP - BSP</h3>
+					<h2><small>A board support package (BSP) is the layer of software containing hardware-specific drivers and other routines that allow a particular operating system to function in a particular hardware environment. We build operating systems and infrastructure software specific to your hardware product, including SDKs for the development of applications. To accomplish this we are using the following opensource projects.</small></h2>
 				</div><!-- End Header -->
         <div class="row">
           <div class="col-sm-5 col-md-4 col-md-offset-1 hidden-xs text-right">
