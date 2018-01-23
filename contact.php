@@ -15,7 +15,7 @@
 							Sweden</br></br>
 							<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>
 							<a href="tel:004646325049"><i class="fa fa-fax fa-fw"></i> Fax.: +46 46 325049</a></br>
-							<a href="https://ns6.inleed.net/webmail/"><i class="fa fa-envelope-o fa-fw"></i> Webmail</a></br>
+							<a href="https://www.mikrodidakt.se/webmail"><i class="fa fa-envelope-o fa-fw"></i> Webmail</a></br>
 						</address>
 					</div><!-- End column -->
 					<div id="contact-form-container" class="col-sm-10">
