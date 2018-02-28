@@ -161,7 +161,6 @@
 						<li><a href="#embedded">EMBEDDED DESIGN</a>
 						<li><a href="#manufacturing">MANUFACTURING</a>
 						<li><a href="#contact">CONTACT</a>
-						<li><a href="http://blog.theowls.se/">BLOG</a>
 					</ul>
 				</div><!-- End column -->
 				<div class="col-sm-3 hidden-xs">
