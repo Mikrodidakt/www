@@ -54,7 +54,7 @@
 				// echo("name: " . $_POST['name'] . "<br />\n");
 
 	 			//	echo("email: " . $_POST['vmail'] . "<br />\n");
-				mail("par.lofgren@mikrodidakt.se", "Contact form message from: " .$name ." to MikrodidaktAB", $message, $header);
+				mail("support@mikrodidakt.se", "Contact form message from: " .$name ." to MikrodidaktAB", $message, $header);
 	 			//	echo ("after mail $vmail\r\n $header");
 		 }
 	}
