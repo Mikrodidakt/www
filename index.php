@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Mikrodidakt</title>
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="http://www.mikrodidakt.se/favicon.ico"/>
+	<link rel="shortcut icon" href="https://www.mikrodidakt.se/favicon.ico"/>
 
 	<!-- Font awesome icons -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
