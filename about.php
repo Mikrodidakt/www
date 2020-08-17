@@ -122,7 +122,7 @@
 								<img src="images/client_assistera.png" class="img-responsive">
 							</div><!-- End column -->
 							<div class="col-sm-4 text-center last-column-client-item-container">
-								<img src="images/client_axis.png" class="img-responsive">
+								<img src="images/client_cervitrol.png" class="img-responsive">
 							</div><!-- End column -->
 						</div><!-- End row -->
 
@@ -168,9 +168,6 @@
 							</div><!-- End column -->
 							<div class="col-sm-4 text-center last-row-client-item-container">
 								<img src="images/client_wayne.png" class="img-responsive">
-							</div><!-- End column -->
-							<div class="col-sm-4 text-center last-row-client-item-container last-column-client-item-container">
-								<img src="images/client_cervitrol.png" class="img-responsive">
 							</div><!-- End column -->
 						</div><!-- End row -->
 					</div><!-- End column -->
