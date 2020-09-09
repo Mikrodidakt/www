@@ -91,7 +91,3 @@
 			</section>
 		</div><!-- End contact container -->
 	</div><!-- End contact -->
-
-	<div id="contact-map">
-		<div id="map"></div>
-	</div>
