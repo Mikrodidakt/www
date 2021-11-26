@@ -10,12 +10,11 @@
 					<div class="col-sm-2">
 						<address>
 							<strong>Mikrodidakt AB</strong></br>
-							Skifferv&auml;gen 48</br>
-							SE-224 78 LUND</br>
+							V&auml;kustv&auml;gen 7</br>
+							SE-211 24  MALM&ouml;</br>
 							Sweden</br></br>
 							<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>
-							<a href="tel:004646325049"><i class="fa fa-fax fa-fw"></i> Fax.: +46 46 325049</a></br>
-							<a href="https://www.mikrodidakt.se/webmail"><i class="fa fa-envelope-o fa-fw"></i> Webmail</a></br>
+										<a href="https://www.mikrodidakt.se/webmail"><i class="fa fa-envelope-o fa-fw"></i> Webmail</a></br>
 						</address>
 					</div><!-- End column -->
 					<div id="contact-form-container" class="col-sm-10">
