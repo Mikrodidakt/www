@@ -14,7 +14,6 @@
 							SE-211 24  MALM&ouml;</br>
 							Sweden</br></br>
 							<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>
-										<a href="https://www.mikrodidakt.se/webmail"><i class="fa fa-envelope-o fa-fw"></i> Webmail</a></br>
 						</address>
 					</div><!-- End column -->
 					<div id="contact-form-container" class="col-sm-10">

@@ -62,7 +62,7 @@
 			});
 
 			var infowindow = new google.maps.InfoWindow({
-				content:"<strong>Mikrodidakt AB</strong></br>Skifferv&auml;gen 48"});
+				content:"<strong>Mikrodidakt AB</strong></br>V&auml;kustv&auml;gen 7"});
 			infowindow.open(map,marker);
 		}
 </script>
@@ -167,11 +167,10 @@
 					<h3>CONTACT</h3>
 					<address>
 						<strong>Mikrodidakt AB</strong></br>
-						Skifferv&auml;gen 48</br>
-						SE-224 78 LUND</br>
+						V&auml;kustv&auml;gen 7</br>
+						SE-211 24 LUND</br>
 						Sweden</br></br>
 						<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>
-						<i class="fa fa-fax fa-fw"></i> +46 46 325049</br>
 						<a href="mailto:info#" class="email"><i class="fa fa-envelope-o fa-fw"></i> info@mikrodidakt.se</a>
 					</address>
 				</div><!-- End column -->
