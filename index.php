@@ -62,7 +62,7 @@
 			});
 
 			var infowindow = new google.maps.InfoWindow({
-				content:"<strong>Mikrodidakt AB</strong></br>V&auml;kustv&auml;gen 7"});
+				content:"<strong>Mikrodidakt AB</strong></br>V&auml;stkustv&auml;gen 7"});
 			infowindow.open(map,marker);
 		}
 </script>
@@ -167,7 +167,7 @@
 					<h3>CONTACT</h3>
 					<address>
 						<strong>Mikrodidakt AB</strong></br>
-						V&auml;kustv&auml;gen 7</br>
+						V&auml;stkustv&auml;gen 7</br>
 						SE-211 24 LUND</br>
 						Sweden</br></br>
 						<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>

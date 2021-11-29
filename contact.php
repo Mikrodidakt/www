@@ -10,7 +10,7 @@
 					<div class="col-sm-2">
 						<address>
 							<strong>Mikrodidakt AB</strong></br>
-							V&auml;kustv&auml;gen 7</br>
+							V&auml;stkustv&auml;gen 7</br>
 							SE-211 24  MALM&ouml;</br>
 							Sweden</br></br>
 							<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>
