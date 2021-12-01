@@ -168,7 +168,7 @@
 					<address>
 						<strong>Mikrodidakt AB</strong></br>
 						V&auml;stkustv&auml;gen 7</br>
-						SE-211 24 LUND</br>
+						SE-211 24 MALM&Ouml</br>
 						Sweden</br></br>
 						<a href="tel:004646325040"><i class="fa fa-phone fa-fw"></i> +46 46 325040</a></br>
 						<a href="mailto:info#" class="email"><i class="fa fa-envelope-o fa-fw"></i> info@mikrodidakt.se</a>
